@@ -37,3 +37,4 @@ spec:
           image: tailspinspacegame16045.azurecr.io/leaderboard
           ports:
           - containerPort: 80
+          
